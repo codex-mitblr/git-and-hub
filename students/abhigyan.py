@@ -1,5 +1,5 @@
-NAME = "Jayyant"
-YEAR = "2005"
+NAME = "abhigyan"
+YEAR = "2024"
 
 print("Git&Hub, " + YEAR)
 print(NAME + " was here.")
