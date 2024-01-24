@@ -1,4 +1,4 @@
-NAME = "Abhigyan"
+NAME = "Hetshah"
 YEAR = "2024"
 
 print("Git&Hub, " + YEAR)
